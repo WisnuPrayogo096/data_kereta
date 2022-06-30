@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "nameTrain": "KERTANEGARA(170)",
+        "price": "Rp 330,000.-",
+        "classTrain": "Eksekutif(A)",
+        "seat": "10 Tersisa",
+        "kotaAsal": "YOGYAKARTA(YK)",
+        "kotaTujuan": "MALANG(ML)",
+        "jamAsal": "20:50",
+        "jamTujuan": "03:06",
+        "tglAsal": "11 Apr 2022",
+        "durasi": "Durasi 6j 16m (+1 Hari)",
+        "tglTujuan": "12 Apr 2022"
+    },
+    {
+        "id": "2",
+        "nameTrain": "KERTANEGARA(170)",
+        "price": "Rp 190,000.-",
+        "classTrain": "Ekonomi(P)",
+        "seat": "Tersisa",
+        "kotaAsal": "YOGYAKARTA(YK)",
+        "kotaTujuan": "MALANG(ML)",
+        "jamAsal": "20:50",
+        "jamTujuan": "03:06",
+        "tglAsal": "11 Apr 2022",
+        "durasi": "Durasi 6j 16m (+1 Hari)",
+        "tglTujuan": "12 Apr 2022"
+    },
+    {
+        "id": "3",
+        "nameTrain": "ARGO PARAHYANGAN(165)",
+        "price": "Rp 320,000.-",
+        "classTrain": "Eksekutif(H)",
+        "seat": "Tersisa",
+        "kotaAsal": "YOGYAKARTA(YK)",
+        "kotaTujuan": "MALANG(ML)",
+        "jamAsal": "20:50",
+        "jamTujuan": "03:06",
+        "tglAsal": "11 Apr 2022",
+        "durasi": "Durasi 6j 16m (+1 Hari)",
+        "tglTujuan": "12 Apr 2022"
+    }
+]

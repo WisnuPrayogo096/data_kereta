@@ -1,0 +1,16 @@
+{
+  "name": "data_kereta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data_kereta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node data_kereta.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
